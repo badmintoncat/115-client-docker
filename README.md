@@ -1,5 +1,7 @@
 # 115-client-docker
-![Docker Image Version (latest by date)](https://img.shields.io/docker/v/lampoboba/115docker?sort=date)
+
+[![Docker](https://img.shields.io/docker/automated/lampoboba/115docker.svg)](https://hub.docker.com/r/lampoboba/115docker)
+![Docker Image Version](https://img.shields.io/docker/v/lampoboba/115docker?sort=date)
 
 Docker wrapper for 115 cloud storage Linux client with web interface. Based on [docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui)
 
