@@ -76,4 +76,9 @@ For a complete list of available environment variables and advanced configuratio
 ## Known issues
 
 1. 115 login credentials are NOT retained between docker restarts
-2. Download path needs to be manually configured in the interface
+2. Download path needs to be manually configured in the interface:
+   - Go to Settings page
+   - Click "Modify" in download path setting
+   - A popup window will show to select the download folder
+   - Click "+ Other Locations", then click "Computer"
+   - Choose "/Download" folder from the root which is the mounted download directory from host.
