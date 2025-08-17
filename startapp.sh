@@ -5,7 +5,7 @@ then
     mkdir -p '/Downloads'
     chmod a+w '/Downloads'
 else
-    echo "Path /Downloads folder is Ready!"
+    echo "Folder /Downloads created!"
 fi
 
 # Start D-Bus if not running (fix for bus connection errors)
