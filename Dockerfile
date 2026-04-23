@@ -1,7 +1,7 @@
 FROM jlesage/baseimage-gui:ubuntu-20.04
 LABEL maintainer="lampoppa <lampooppa@gmail.com>"
 ENV APP_NAME="115pc"
-ENV APP_VERSION="v35.30.0"
+ENV APP_VERSION="v36.0.0"
 ENV USER_ID=0
 ENV GROUP_ID=0
 ENV ENABLE_CJK_FONT=1

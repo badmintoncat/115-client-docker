@@ -13,7 +13,7 @@ This Docker image provides a containerized version of the [115 Netdisk Linux cli
 
 ## Current Version
 
-- Currently supports `v35.30.0` 115 Linux desktop client.
+- Currently supports `v36.0.0` 115 Linux desktop client.
 - Note: Previous versions are not tested.
 
 ## Features
